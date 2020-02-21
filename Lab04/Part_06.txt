@@ -1,0 +1,14 @@
+Nepal a country to hold Mr.Everest
+A palce where god and human share same place
+A land of possiblities
+A heaven,land of mountains
+my birthpalce
+
+Steps
+To creat a file Part _06.txt  "vi Part_06.txt"
+Write something and press ZZ to save and exit
+"cat Part_06.txt" -to view the file Part_06.txt
+"less Part_06.txt"-to view the large file Part_06.txt
+ Press $ to go to the end of document to add few comments
+Use movement command to move arround
+
